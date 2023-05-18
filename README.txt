@@ -1,0 +1,1 @@
+Win32Lib for Euphoria restructured to reduce number of files.

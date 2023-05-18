@@ -1,0 +1,6 @@
+include win32lib_r2.ew
+object x
+x = create(Window, "Test", 0,0,0,0,0,0)
+x = getOpenFileName(x, "", "")
+
+
